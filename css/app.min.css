@@ -18,6 +18,18 @@ body{font-family:"Roboto",Arial,sans-serif;color:var(--mbx-color-black);backgrou
   left:0;
 }
 
+.mbx-logo-cup {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.mbx-logo-letters {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
 .hide {
   visibility: hidden;
 }
