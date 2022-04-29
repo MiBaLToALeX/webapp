@@ -13,6 +13,15 @@ webrick:
     server: mws
     X-Ray-MWS: mws-proto-mbx-1
 theme: minima
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: true
+  startings: [html, head, body]
 sass:
     load_paths:
         - _sass
