@@ -1,0 +1,4 @@
+# For Security Vulnerabilities, please use the email
+Contact: mailto:security@mibaltoalex.com
+Preferred-Languages: es
+Canonical: https://app.mibaltoalex.com/.well-known/security.txt
