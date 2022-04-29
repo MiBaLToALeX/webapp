@@ -37,3 +37,24 @@ body{font-family:"Roboto",Arial,sans-serif;color:var(--mbx-color-black);backgrou
 .show-content {
   visibility: visible;
 }
+
+.site-header {
+  display: block;
+  width: auto;
+  height: 75px;
+  position: sticky;
+  top: -1px;
+  z-index: 9999;
+  background-color: #F3F5F6;
+  padding: 0 30px;
+}
+
+.site-header .wrapper {
+  max-width: 1110px;
+  margin: 0 auto;
+  padding: 20px 0 10px;
+}
+
+.site-header .site-nav {
+  width: 24px;
+}
