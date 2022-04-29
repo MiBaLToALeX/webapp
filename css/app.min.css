@@ -44,7 +44,7 @@ body{font-family:"Roboto",Arial,sans-serif;color:var(--mbx-color-black);backgrou
   height: 75px;
   position: sticky;
   top: -1px;
-  z-index: 9999;
+  z-index: 9998;
   background-color: #F3F5F6;
   padding: 0 30px;
 }
