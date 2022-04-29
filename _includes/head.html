@@ -9,8 +9,10 @@
   <link rel="stylesheet" href="{{ "/css/app.min.css" | prepend: site.url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <meta content='noindex, nofollow,noarchive,nosnippet,noimageindex,notranslate' name='robots'/>
-  <link href='https://fonts.googleapis.com' rel='dns-prefetch'/>
+  <link href='https://fonts.googleapis.com' rel='preconnect dns-prefetch'/>
   {% include social.html %}
+  <link rel="manifest" href="{{ "/assets/manifest.json" | prepend: site.url }}">
+  <meta name="application-name" content="{{ site.title | escape }}">
   <!-- Chrome, Firefox OS and Opera -->
   <meta content='#ad1519' name='theme-color'/>
   <!-- Windows Phone -->
