@@ -21,7 +21,7 @@ compress_html:
     envs: [local]
   blanklines: false
   profile: true
-  startings: [html, head, body]
+  startings: [head, body]
 sass:
     load_paths:
         - _sass
