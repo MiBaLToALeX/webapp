@@ -8,7 +8,6 @@ email: support@mibaltoalex.com
 description: MIBALTOALEX APP
 domain: app.mibaltoalex.com
 url: https://app.mibaltoalex.com
-baseurl: .
 webrick:
   headers:
     server: mws
