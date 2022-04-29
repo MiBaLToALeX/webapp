@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+	"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+    <!-- Created by Miguel J. Carmona (MIBALTOALEX) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
+            xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+            xmlns="http://www.w3.org/2000/svg" width="512" height="50" viewBox="0 0 135.46666 13.229167" version="1.1"
+            id="svgMBX">
+    <style>
+        :root {
+            --mbx-color-black: #111111;
+            --mbx-color-red: #AD1519;
+            --mbx-color-yellow: #FABD00;
+            --mbx-logo-color-blink-stroke: var(--mbx-color-red);
+            --mbx-logo-color-blink-fill: var(--mbx-color-yellow);
+        }
+
+        @-webkit-keyframes filter {
+
+            0%,
+            4%,
+            8%,
+            12%,
+            20%,
+            30%,
+            40%,
+            50%,
+            100% {
+                opacity: 0.5;
+                fill: var(--mbx-color-red);
+                stroke: var(--mbx-color-red);
+                stroke-width: 0.31141761;
+            }
+
+            2%,
+            6%,
+            10% {
+                opacity: 0.6;
+                fill: var(--mbx-color-red);
+                stroke: var(--mbx-color-red);
+                stroke-width: 0.51141761;
+            }
+
+            25%,
+            35%,
+            45% {
+                opacity: 0.6;
+                fill: var(--mbx-color-red);
+                stroke: var(--mbx-color-red);
+                stroke-width: 0.51141761;
+            }
+
+            80% {
+                opacity: 0.7;
+                fill: var(--mbx-logo-color-blink-fill);
+                stroke: var(--mbx-logo-color-blink-stroke);
+                stroke-width: 0.51141761;
+            }
+        }
+
+        @keyframes filter {
+
+            0%,
+            4%,
+            8%,
+            12%,
+            20%,
+            30%,
+            40%,
+            50%,
+            100% {
+                opacity: 0.5;
+                fill: var(--mbx-color-red);
+                stroke: var(--mbx-color-red);
+                stroke-width: 0.31141761;
+            }
+
+            2%,
+            6%,
+            10% {
+                opacity: 0.6;
+                fill: var(--mbx-color-red);
+                stroke: var(--mbx-color-red);
+                stroke-width: 0.51141761;
+            }
+
+            25%,
+            35%,
+            45% {
+                opacity: 0.6;
+                fill: var(--mbx-color-red);
+                stroke: var(--mbx-color-red);
+                stroke-width: 0.51141761;
+            }
+
+            80% {
+                opacity: 0.7;
+                fill: var(--mbx-logo-color-blink-fill);
+                stroke: var(--mbx-logo-color-blink-stroke);
+                stroke-width: 0.51141761;
+            }
+        }
+
+
+        svg#svgMBX .path-mbx {
+            animation: filter 3s ease-in-out alternate infinite;
+            animation-delay: 700ms;
+        }
+    </style>
+    <desc xmlns="http://www.w3.org/2000/svg">Created by Miguel J. Carmona (MIBALTOALEX)</desc>
+            <g id="rootMBX" transform="translate(0,-283.77082)">
+                <g id="gMBX" transform="translate(0,-1.0583333)">
+                    <g aria-label="MIBALTOALEX" id="tMBX">
+                        <path class="path-mbx"
+                            d="m 0,296.99998 v -10.89962 h 3.1141763 v 1.55709 h 1.5570881 v 1.55709 h 1.5570881 v -1.55709 h 1.5570882 v -1.55709 h 3.1141763 v 10.89962 H 7.7854407 v -6.22835 H 6.2283525 v 3.11417 H 4.6712644 v -3.11417 H 3.1141763 v 6.22835 z"
+                            style="stroke-width:0.31141761;fill:#111111;" id="pathM" />
+                        <path
+                            d="m 14.013793,296.99998 v -1.55709 h 3.114177 v -7.78544 h -3.114177 v -1.55709 h 9.342529 v 1.55709 h -3.114176 v 7.78544 h 3.114176 v 1.55709 z"
+                            style="stroke-width:0.31141761;fill:#111111" id="pathI" />
+                        <path class="path-mbx"
+                            d="m 24.91341,296.99998 v -10.89962 h 9.342529 v 1.55709 h 1.557088 v 3.11418 h -1.557088 v 1.55709 h 1.557088 v 3.11417 h -1.557088 v 1.55709 z m 3.114176,-6.22835 h 4.671265 v -3.11418 h -4.671265 z m 0,4.67126 h 4.671265 v -3.11417 h -4.671265 z"
+                            style="stroke-width:0.31141761;fill:#111111" id="pathB" />
+                        <path
+                            d="m 37.370117,296.99998 v -7.78544 h 1.557088 v -1.55709 h 1.557088 v -1.55709 h 4.671265 v 1.55709 h 1.557088 v 1.55709 h 1.557088 v 7.78544 h -3.114176 v -3.11418 h -4.671265 v 3.11418 z m 3.114176,-4.67126 h 4.671265 v -3.11418 H 43.59847 v -1.55709 h -1.557088 v 1.55709 h -1.557089 z"
+                            style="stroke-width:0.31141761;fill:#111111" id="pathA1" />
+                        <path d="m 51.383909,296.99998 v -10.89962 h 3.114176 v 9.34253 h 6.228352 v 1.55709 z"
+                            style="stroke-width:0.31141761;fill:#111111" id="pathL1" />
+                        <path
+                            d="m 66.954788,296.99998 v -9.34253 h -3.114176 v -1.55709 h 9.342529 v 1.55709 h -3.114177 v 9.34253 z"
+                            style="stroke-width:0.31141761;fill:#111111" id="pathT" />
+                        <path
+                            d="m 76.297323,296.99998 v -1.55709 h -1.557089 v -7.78544 h 1.557089 v -1.55709 h 7.78544 v 1.55709 h 1.557088 v 7.78544 h -1.557088 v 1.55709 z m 1.557088,-1.55709 h 4.671264 v -7.78544 h -4.671264 z"
+                            style="stroke-width:0.31141761;fill:#111111" id="pathO" />
+                        <path
+                            d="m 87.196938,296.99998 v -7.78544 h 1.557088 v -1.55709 h 1.557088 v -1.55709 h 4.671264 v 1.55709 h 1.557088 v 1.55709 h 1.557089 v 7.78544 h -3.114177 v -3.11418 h -4.671264 v 3.11418 z m 3.114176,-4.67126 h 4.671264 v -3.11418 H 93.42529 v -1.55709 h -1.557088 v 1.55709 h -1.557088 z"
+                            style="stroke-width:0.31141761;fill:#111111" id="pathA2" />
+                        <path d="m 101.21073,296.99998 v -10.89962 h 3.11418 v 9.34253 h 6.22835 v 1.55709 z"
+                            style="stroke-width:0.31141761;fill:#111111" id="pathL2" />
+                        <path
+                            d="m 112.11034,296.99998 v -10.89962 h 10.89962 v 1.55709 h -7.78544 v 3.11418 h 6.22835 v 1.55709 h -6.22835 v 3.11417 h 7.78544 v 1.55709 z"
+                            style="stroke-width:0.31141761;fill:#111111" id="pathE" />
+                        <path class="path-mbx"
+                            d="m 124.56705,296.99998 v -3.11418 h 1.55709 v -1.55708 h 1.55708 v -1.55709 h -1.55708 v -1.55709 h -1.55709 v -3.11418 h 3.11417 v 3.11418 h 1.55709 v 1.55709 h 1.55709 v -1.55709 h 1.55709 v -3.11418 h 3.11417 v 3.11418 h -1.55708 v 1.55709 h -1.55709 v 1.55709 h 1.55709 v 1.55708 h 1.55708 v 3.11418 h -3.11417 v -3.11418 h -1.55709 v -1.55708 h -1.55709 v 1.55708 h -1.55709 v 3.11418 z"
+                            style="stroke-width:0.31141761;fill:#111111" id="pathX" stroke="#111111" />
+                    </g>
+                </g>
+            </g>
+        </svg>
