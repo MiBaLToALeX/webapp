@@ -2,7 +2,7 @@
 * MIBALTOALEX Template
 * Copyright 2022 Miguel J. Carmona (MIBALTOALEX)
 */
-root{
+:root {
   --mbx-color-white: #ffffff;
   --mbx-color-black: #111111;
 }
