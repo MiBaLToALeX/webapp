@@ -2,8 +2,9 @@
 <meta content='MIBALTOALEX' property='og:title'/>
 <meta content='Blog personal de Miguel J. Carmona sobre Seguridad Informática, Programación, Snippets, Herramientas, Aplicaciones, Proyectos y Servicios.' property='og:description'/>
 <meta content='MIBALTOALEX' property='og:site_name'/>
-<meta content='https://www.mibaltoalex.com/' property='og:url'/>
-<meta content='//1.bp.blogspot.com/-qGcWHzwKrgA/XkqWgUQz-mI/AAAAAAAAJ-w/74qOfrFGQtMdODxNGCpWDOPhqmqhJ_x_ACLcBGAsYHQ/s320/logo.png' property='og:image'/>
+<meta content='{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}' property='og:url'/>
+<meta content='{{ "/assets/img/logo.png" | prepend: site.url }}' property='og:image'/>
+<script src="{{ "/js/app.min.js" | prepend: site.url }}" nonce="+edGslq6VSd8dQOkfuwKKQ=="></script>
 <meta content='320' property='og:image:width'/>
 <meta content='320' property='og:image:height'/>
 <meta content='summary' name='twitter:card'/>
@@ -11,4 +12,4 @@
 <meta content='@mibaltoalex' name='twitter:creator'/>
 <meta content='MIBALTOALEX' name='twitter:title'/>
 <meta content='Blog personal de Miguel J. Carmona sobre Seguridad Informática, Programación, Snippets, Herramientas, Aplicaciones, Proyectos y Servicios.' name='twitter:description'/>
-<meta content='https://www.mibaltoalex.com/' name='twitter:url'/>
+<meta content='{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}' name='twitter:url'/>
