@@ -1,0 +1,9 @@
+/*!
+* MIBALTOALEX Template
+* Copyright 2022 Miguel J. Carmona (MIBALTOALEX)
+*/
+root{
+  --mbx-color-white: #ffffff;
+  --mbx-color-black: #111111;
+}
+body{font-family:"Roboto",Arial,sans-serif;color:var(--mbx-color-black);background:var(--mbx-color-white);}
