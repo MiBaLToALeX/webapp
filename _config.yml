@@ -12,7 +12,6 @@ webrick:
   headers:
     server: mws
     X-Ray-MWS: mws-proto-mbx-1
-theme: minima
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
